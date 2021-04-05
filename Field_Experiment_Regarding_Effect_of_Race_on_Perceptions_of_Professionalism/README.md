@@ -13,7 +13,7 @@ model, and ask the subjects to rate the clothes’ conformity to the standards o
 casual.” Our study did not indicate any significant effect of the model’s race on perceptions of \
 clothing across the images we tested. In addition, we did not note any statistically significant \
 differences in the perception of subjects of different gender or ethnic groups. As a result, we \
-do not claim to have identified any clear implicit biases in this study.\
+do not claim to have identified any clear implicit biases in this study.
 
 ## Tools
-This project was completed using PySpark on the Databricks cloud platform. 
+This project was completed using R. 
