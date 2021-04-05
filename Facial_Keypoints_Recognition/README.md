@@ -1,6 +1,5 @@
 # Detecting Facial Keypoints
 Ammara Essa, Ivan Fan, Andy Hoopengardner, Nicholas Lovejoy
-
 <br>UC Berkeley Master of Information and Data Science (MIDS)
 <br> W07 - Machine Learning - Final Project
 
