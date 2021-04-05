@@ -1,7 +1,7 @@
 # Effect of Race on Perceptions of Professionalism
 Dinesh Achuthan, Suryabrata Dutta, Ammara Essa, Girija Ghali \
 UC Berkeley Master of Information and Data Science (MIDS) \
-W251 - Deep Learning in the Cloud and at the Edge \
+W251 - Deep Learning in the Cloud and at the Edge 
 
 ## Abstract
 How often have we heard pleas from non-profits organizations to help feed the underprivileged, \
