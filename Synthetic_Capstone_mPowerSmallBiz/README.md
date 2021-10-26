@@ -1,6 +1,6 @@
 #
 <p align="center">
-  <img width=80% src="/images/mpowerlogo-main.png">
+  <img width=80% src="mpowerlogo-main.png">
 </p>
 
 ## Github Repo
@@ -44,7 +44,7 @@ This section of the repo contains our final model.
 
 ## Tools
 <p align="center">
-  <img src="/images/tools.PNG">
+  <img src="tools.PNG">
 </p>
 
 
