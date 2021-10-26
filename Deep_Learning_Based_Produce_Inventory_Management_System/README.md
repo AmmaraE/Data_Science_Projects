@@ -1,4 +1,4 @@
-# Effect of Race on Perceptions of Professionalism
+# Deep_Learning_Based_Produce_Inventory_Management_System
 Dinesh Achuthan, Suryabrata Dutta, Ammara Essa, Girija Ghali \
 UC Berkeley Master of Information and Data Science (MIDS) \
 W251 - Deep Learning in the Cloud and at the Edge 
