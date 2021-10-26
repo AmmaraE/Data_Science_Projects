@@ -44,7 +44,7 @@ This section of the repo contains our final model.
 
 ## Tools
 <p align="center">
-  <img src="tools.PNG">
+  <img src="tools.png">
 </p>
 
 
