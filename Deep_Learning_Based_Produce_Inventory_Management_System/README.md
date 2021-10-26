@@ -1,4 +1,4 @@
-# Deep_Learning_Based_Produce_Inventory_Management_System
+# Deep Learning Based Produce Inventory Management System
 Dinesh Achuthan, Suryabrata Dutta, Ammara Essa, Girija Ghali \
 UC Berkeley Master of Information and Data Science (MIDS) \
 W251 - Deep Learning in the Cloud and at the Edge 
